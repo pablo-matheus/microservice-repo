@@ -1,7 +1,0 @@
-spring:
-  # MySQL Database
-  datasource:
-    username: root
-    password: 1234
-    url: jdbc:mysql://127.0.0.1:3307/process
-    initialization-mode: always
